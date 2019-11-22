@@ -1,0 +1,8 @@
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.csprojAssemblyReference.cache
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.pdb

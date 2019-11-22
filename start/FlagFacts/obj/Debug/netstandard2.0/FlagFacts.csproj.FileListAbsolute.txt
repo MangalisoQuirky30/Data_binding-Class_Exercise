@@ -1,0 +1,14 @@
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.deps.json
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.dll
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.pdb
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagData.dll
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagData.pdb
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csprojAssemblyReference.cache
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfoInputs.cache
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfo.cs
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csproj.CopyComplete
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.dll
+C:\xam__git\data-binding-exercise\data-binding-assessment\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.pdb
